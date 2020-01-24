@@ -3,7 +3,7 @@
 
 
 # Aim
-# All provided with unit tests, the prgram should pass all unit tests.
+**All provided with unit tests, the program should pass all unit tests.**
 
 *Coin change problem*
 
